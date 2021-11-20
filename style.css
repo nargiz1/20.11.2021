@@ -12,7 +12,7 @@
 }
 .main{
     padding: 150px 0px;
-    background-image: linear-gradient(rgba(92, 77, 66, 0.8), rgba(92, 77, 66, 0.8)), url("img/header.jpg");
+    background-image: linear-gradient(rgba(92, 77, 66, 0.8), rgba(92, 77, 66, 0.8)), url("header.jpg");
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
